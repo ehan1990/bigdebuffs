@@ -336,6 +336,7 @@ addon.Spells = {
     [213610] = { type = BUFF_DEFENSIVE }, -- Holy Ward
     [215769] = { type = BUFF_DEFENSIVE }, -- Spirit of Redemption
     [221660] = { type = IMMUNITY_SPELL }, -- Holy Concentration
+    [323673] = { type = IMMUNITY }, -- Mindgames
 
     -- Rogue
 
