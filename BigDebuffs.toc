@@ -7,7 +7,7 @@
 ## Title: BigDebuffs
 ## Notes: Increases the debuff size of crowd control effects on the Blizzard raid frames
 ## Version: @project-version@
-## Author: Jordon
+## Author: Jordon (edited by Ed)
 ## DefaultState: Enabled
 ## SavedVariables: BigDebuffsDB
 ## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3, LibDualSpec-1.0
